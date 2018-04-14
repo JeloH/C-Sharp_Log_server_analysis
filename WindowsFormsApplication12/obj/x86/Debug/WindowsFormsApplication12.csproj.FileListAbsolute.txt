@@ -1,0 +1,9 @@
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.exe
+C:\Users\31\Documents\Visual Studio 2010\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\x86\Debug\WindowsFormsApplication12.pdb
