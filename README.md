@@ -1,4 +1,4 @@
-# C-Sharp_Log_server_mining
+# C-Sharp_Log_server_analysis
 
 A C# desktop application to web log analysis and sql inj, xss discovery
 
