@@ -11,3 +11,7 @@ http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.674.8376
     journal= {ARPN Journal of Systems and Software}
     year = {2014}
 }
+
+
+![alt text](https://github.com/JeloH/C-Sharp_Log_server_analysis/blob/master/a1.png)
+
